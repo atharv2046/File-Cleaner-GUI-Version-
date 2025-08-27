@@ -1,0 +1,7 @@
+-r requirements.txt   # include everything from requirements.txt
+
+# Developer tools
+black>=24.3.0         # code formatter
+flake8>=7.0.0         # linter
+pytest>=8.0.0         # testing framework
+pyinstaller>=6.0      # to build .exe
